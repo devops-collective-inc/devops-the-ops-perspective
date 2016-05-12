@@ -1,0 +1,1 @@
+"DevOps" is such a popular term these days - but what's it actually mean to an Ops person? This high-level book attempts to put DevOps into perspective with real-world examples and descriptions.
