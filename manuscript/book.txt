@@ -1,8 +1,8 @@
-About.txt
-chapter1.txt
-chapter2.txt
-chapter3.txt
-chapter4.txt
-chapter5.txt
-chapter6.txt
-reading-list.txt
+About.md
+chapter1.md
+chapter2.md
+chapter3.md
+chapter4.md
+chapter5.md
+chapter6.md
+reading-list.md
