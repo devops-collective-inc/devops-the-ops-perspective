@@ -13,7 +13,7 @@ This is the heart of DevOps, and if it makes _your_ heart skip a beat, then you 
 
 All of this conspired to create something that is essentially the antithesis of DevOps. Software releases are slower, because of the implacable march of code from development through to QA, through to production. Operations basically lives in fear of new code, because they know little about it, and it wasn't necessarily designed with ease-of-operating in mind. Slower releases meant more pressure to pack more features into those releases, so each release became a "win," which simply made the process even worse. 
 
-DevOps, by contrast, envisions application and service delivery than constantly pushes small, incremental updates to users, with a minimum of operational overhead. Smaller releases are easier to code and test, and with the right approach, safer to push into production on an ongoing basis. But in order for all that to happen, everyone has to work together. The hard line between developer and operations has to become fuzzy. 
+DevOps, by contrast, envisions application and service delivery that constantly pushes small, incremental updates to users, with minimal operational overhead. Smaller releases are easier to code and test, and with the right approach, safer to push into production on an ongoing basis. But in order for all that to happen, everyone has to work together. The hard line between developer and operations has to become fuzzy. 
 
 In a DevOps environment, things work differently. Here's a super-simplified look:
 1. Developers code, and check their code into a repository.
