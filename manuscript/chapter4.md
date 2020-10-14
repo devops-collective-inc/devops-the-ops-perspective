@@ -1,9 +1,7 @@
 # IT Ops Skills in a DevOps Environment 
 So let's say you've decided, at least in theory, to help take your organization onto a DevOps standing. You've read about some of the high-level capabilities that you, as an Operations person, need to provide to the organization. 
 
-How do you do it? 
-
-In a word, "glue." 
+How do you do it? In a word, "glue." 
 
 I'll say it again: DevOps is a _philosophy_. Accounting remains a good example. The accounting industry agrees, more or less, on what constitutes good accounting, and that's where GAAP comes from. Similarly, the DevOps industry is slowly coalescing a feeling of what "good" DevOps "feels like." 
 
